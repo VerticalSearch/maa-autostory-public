@@ -1,0 +1,21 @@
+{
+  "device": "127.0.0.1:16384",
+  "max_battles_per_run": null,
+  "max_sanity_per_run": 200,
+  "formation_index": 4,
+  "port": 18741,
+  "ocr_backend": "directml",
+  "ocr_device_id": 0,
+  "max_candidates_per_stage": null,
+  "max_practice_attempts_per_run": null,
+  "auto_skill_training": {
+    "enabled": true,
+    "rarities": [
+      3,
+      4,
+      5
+    ],
+    "max_skill_level": 7,
+    "synthesize_missing": true
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "Source": "C:\\Program Files\\Microsoft OfficePLUS\\3.16.0.46159\\addin\\Microsoft.Web.WebView2.Core.dll",
+    "File": "Microsoft.Web.WebView2.Core.dll",
+    "Version": "1.0.2535.41",
+    "Signature": "Valid",
+    "SHA256": "A1E096C6842B9F443679F47E321379D15E1F93C77FD0B6D32B9EB0E93E25AC89"
+  },
+  {
+    "Source": "C:\\Program Files\\Microsoft OfficePLUS\\3.16.0.46159\\addin\\Microsoft.Web.WebView2.WinForms.dll",
+    "File": "Microsoft.Web.WebView2.WinForms.dll",
+    "Version": "1.0.2535.41",
+    "Signature": "Valid",
+    "SHA256": "B12D2C15E93A0FC29A731BEC998E7DDF073B3AE2454F3AFDD9934BBE6A223D4A"
+  },
+  {
+    "Source": "C:\\Program Files\\Microsoft OfficePLUS\\3.16.0.46159\\addin\\runtimes\\win-x64\\native\\WebView2Loader.dll",
+    "File": "WebView2Loader.dll",
+    "Version": "1.0.2535.41",
+    "Signature": "Valid",
+    "SHA256": "E2004ECD9DDEBD1BB7EDFFF5FA62781FE037ECA4282C2BE3483DC6F78779899C"
+  }
+]
